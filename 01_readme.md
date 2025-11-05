@@ -32,4 +32,3 @@ git clone https://github.com/lim-dongsun/git_practice.git .
 ## Personal access tokens (classic)
 
 ![001](/Users/1004790/workspace/git_practice/image/001.png)
-
